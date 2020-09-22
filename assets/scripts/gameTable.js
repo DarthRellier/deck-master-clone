@@ -317,10 +317,10 @@ let gameTable = [
   {
     card: {
       type: "monster",
-      value: [3, 5],
+      value: [2, 4],
       ills: "monsters/knight",
       name: "knight",
     },
-    weight: 7,
+    weight: 6,
   },
 ];
